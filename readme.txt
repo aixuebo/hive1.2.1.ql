@@ -1,0 +1,1 @@
+针对hive的1.2.1的ql中java包进行git管理
