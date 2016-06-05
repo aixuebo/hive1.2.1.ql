@@ -621,7 +621,7 @@ public class Hive {
    *          new partition
    * @throws InvalidOperationException
    *           if the changes in metadata is not acceptable
-   * @throws TException
+   * @throws TException-
    */
   public void renamePartition(Table tbl, Map<String, String> oldPartSpec, Partition newPart)
       throws HiveException {
